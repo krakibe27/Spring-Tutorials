@@ -8,5 +8,7 @@
 </head>
 <body>
 Hi STS
+
+<%=session.getAttribute("name") %>
 </body>
 </html>
